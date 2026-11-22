@@ -1,0 +1,2 @@
+371a72d25f603ef35b11188cc23dbd8a9d1fdba78df79de57cca9e0cb3c9d37d *Timetab_0.9.0_x64-setup.exe
+e93705f9d1e65b48cb2e79e9d165f753b46d05fd65baafd12c123166c239830b *Timetab_0.9.0_x64_en-US.msi

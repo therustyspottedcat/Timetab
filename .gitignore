@@ -1,0 +1,2 @@
+# drop/ is a local temporary inbox (not tracked): binaries get moved into releases/<version>/ before committing.
+drop/
