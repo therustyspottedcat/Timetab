@@ -11,6 +11,10 @@ Official downloads for **TimeTab**.
 |---|---|---|
 | Windows (x64), installer | [Timetab_0.9.0_x64-setup.exe](releases/0.9.0-alpha/Timetab_0.9.0_x64-setup.exe) | 9.4 MB |
 | Windows (x64), MSI package | [Timetab_0.9.0_x64_en-US.msi](releases/0.9.0-alpha/Timetab_0.9.0_x64_en-US.msi) | 11.0 MB |
+| Linux (x64), Debian / Ubuntu package | [dugt-app_0.9.0_amd64.deb](releases/0.9.0-alpha/dugt-app_0.9.0_amd64.deb) | 11.7 MB |
+| Linux (x64), AppImage (other distributions) | [dugt-app_0.9.0_x86_64.AppImage](releases/0.9.0-alpha/dugt-app_0.9.0_x86_64.AppImage) | 11.7 MB |
+
+Linux requirements: the `.deb` needs Ubuntu 22.04 or Debian 12 or later (glibc 2.35+). The AppImage needs FUSE 2; make it executable with `chmod +x`, or run it with `--appimage-extract-and-run` if FUSE 2 isn't installed. The Linux builds are not signed.
 <!-- LATEST:END -->
 
 ## All versions
@@ -18,7 +22,7 @@ Official downloads for **TimeTab**.
 <!-- VERSIONS:START -->
 | Version | Date | Platforms |
 |---|---|---|
-| [0.9.0-alpha](releases/0.9.0-alpha/) | 2026-11-21 | Windows (x64) |
+| [0.9.0-alpha](releases/0.9.0-alpha/) | 2026-11-21 | Windows (x64), Linux (x64) |
 <!-- VERSIONS:END -->
 
 ## Verify your download (optional)

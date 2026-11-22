@@ -1,2 +1,4 @@
 371a72d25f603ef35b11188cc23dbd8a9d1fdba78df79de57cca9e0cb3c9d37d *Timetab_0.9.0_x64-setup.exe
 e93705f9d1e65b48cb2e79e9d165f753b46d05fd65baafd12c123166c239830b *Timetab_0.9.0_x64_en-US.msi
+ad21fd0af0e03faff69cda0e54f8f2899f99a362feb7151a8f2dcee0fc6e6f1d  dugt-app_0.9.0_amd64.deb
+b0e5d96ae4b9a478bebaf9a96229166ce3065b756e9b2763542b708924e3475d  dugt-app_0.9.0_x86_64.AppImage
