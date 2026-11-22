@@ -7,3 +7,4 @@ All notable changes to TimeTab are listed here, newest first.
 - First public build.
 - Windows (x64): `.exe` installer and `.msi` package.
 - Linux (x64): `.deb` package (Debian / Ubuntu) and AppImage.
+- macOS (universal, Apple Silicon and Intel): `.dmg` disk image.
