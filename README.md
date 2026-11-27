@@ -5,15 +5,14 @@ Official downloads for **TimeTab**.
 ## Download
 
 <!-- LATEST:START -->
-**Latest: 0.9.0-alpha** (2026-11-21), an alpha (pre-release) version
+**Latest: 1.0.0-beta** (2026-11-26), a beta (pre-release) version
 
 | Platform | File | Size |
 |---|---|---|
-| Windows (x64), installer | [Timetab_0.9.0_x64-setup.exe](releases/0.9.0-alpha/Timetab_0.9.0_x64-setup.exe) | 9.4 MB |
-| Windows (x64), MSI package | [Timetab_0.9.0_x64_en-US.msi](releases/0.9.0-alpha/Timetab_0.9.0_x64_en-US.msi) | 11.0 MB |
-| Linux (x64), Debian / Ubuntu package | [dugt-app_0.9.0_amd64.deb](releases/0.9.0-alpha/dugt-app_0.9.0_amd64.deb) | 11.7 MB |
-| Linux (x64), AppImage (other distributions) | [dugt-app_0.9.0_x86_64.AppImage](releases/0.9.0-alpha/dugt-app_0.9.0_x86_64.AppImage) | 11.7 MB |
-| macOS (Apple Silicon and Intel), disk image | [Timetab_0.9.0_universal.dmg](releases/0.9.0-alpha/Timetab_0.9.0_universal.dmg) | 17.6 MB |
+| Linux (x64), Debian / Ubuntu package | [dugt-app_1.0.0_amd64.deb](releases/1.0.0-beta/dugt-app_1.0.0_amd64.deb) | 12.5 MB |
+| Linux (x64), AppImage (other distributions) | [dugt-app_1.0.0_x86_64.AppImage](releases/1.0.0-beta/dugt-app_1.0.0_x86_64.AppImage) | 12.4 MB |
+
+Windows and macOS builds of 1.0.0-beta aren't available yet. Until then, use [0.9.0-alpha](releases/0.9.0-alpha/): [Windows installer](releases/0.9.0-alpha/Timetab_0.9.0_x64-setup.exe), [Windows MSI](releases/0.9.0-alpha/Timetab_0.9.0_x64_en-US.msi), [macOS disk image](releases/0.9.0-alpha/Timetab_0.9.0_universal.dmg).
 
 Linux requirements: the `.deb` needs Ubuntu 22.04 or Debian 12 or later (glibc 2.35+). The AppImage needs FUSE 2; make it executable with `chmod +x`, or run it with `--appimage-extract-and-run` if FUSE 2 isn't installed. The Linux builds are not signed.
 
@@ -25,6 +24,7 @@ macOS: open the `.dmg` and drag Timetab into Applications. The app is not signed
 <!-- VERSIONS:START -->
 | Version | Date | Platforms |
 |---|---|---|
+| [1.0.0-beta](releases/1.0.0-beta/) | 2026-11-26 | Linux (x64) |
 | [0.9.0-alpha](releases/0.9.0-alpha/) | 2026-11-21 | Windows (x64), Linux (x64), macOS (universal) |
 <!-- VERSIONS:END -->
 
