@@ -9,10 +9,12 @@ Official downloads for **TimeTab**.
 
 | Platform | File | Size |
 |---|---|---|
+| Windows (x64), installer | [Timetab_1.0.0_x64-setup.exe](releases/1.0.0-beta/Timetab_1.0.0_x64-setup.exe) | 10.0 MB |
+| Windows (x64), MSI package | [Timetab_1.0.0_x64_en-US.msi](releases/1.0.0-beta/Timetab_1.0.0_x64_en-US.msi) | 11.8 MB |
 | Linux (x64), Debian / Ubuntu package | [dugt-app_1.0.0_amd64.deb](releases/1.0.0-beta/dugt-app_1.0.0_amd64.deb) | 12.5 MB |
 | Linux (x64), AppImage (other distributions) | [dugt-app_1.0.0_x86_64.AppImage](releases/1.0.0-beta/dugt-app_1.0.0_x86_64.AppImage) | 12.4 MB |
 
-Windows and macOS builds of 1.0.0-beta aren't available yet. Until then, use [0.9.0-alpha](releases/0.9.0-alpha/): [Windows installer](releases/0.9.0-alpha/Timetab_0.9.0_x64-setup.exe), [Windows MSI](releases/0.9.0-alpha/Timetab_0.9.0_x64_en-US.msi), [macOS disk image](releases/0.9.0-alpha/Timetab_0.9.0_universal.dmg).
+The macOS build of 1.0.0-beta isn't available yet. Until then, use the [0.9.0-alpha macOS disk image](releases/0.9.0-alpha/Timetab_0.9.0_universal.dmg).
 
 Linux requirements: the `.deb` needs Ubuntu 22.04 or Debian 12 or later (glibc 2.35+). The AppImage needs FUSE 2; make it executable with `chmod +x`, or run it with `--appimage-extract-and-run` if FUSE 2 isn't installed. The Linux builds are not signed.
 
@@ -24,7 +26,7 @@ macOS: open the `.dmg` and drag Timetab into Applications. The app is not signed
 <!-- VERSIONS:START -->
 | Version | Date | Platforms |
 |---|---|---|
-| [1.0.0-beta](releases/1.0.0-beta/) | 2026-11-26 | Linux (x64) |
+| [1.0.0-beta](releases/1.0.0-beta/) | 2026-11-26 | Windows (x64), Linux (x64) |
 | [0.9.0-alpha](releases/0.9.0-alpha/) | 2026-11-21 | Windows (x64), Linux (x64), macOS (universal) |
 <!-- VERSIONS:END -->
 
